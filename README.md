@@ -6,7 +6,7 @@
 > *You can add a link to a profile image if you have one*
 
 - **Email**: [mingweig@andrew.cmu.edu](mailto:mingweig@andrew.cmu.edu)
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/mingwei-gao/)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/mingwei-gao-/)
 - **Portfolio Webpage**: [TSWD Portfolio](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
 - **Repository**: [Github Repository](https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao)
 
