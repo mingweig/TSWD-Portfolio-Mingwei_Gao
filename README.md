@@ -6,8 +6,9 @@
 > *You can add a link to a profile image if you have one*
 
 - **Email**: [mingweig@andrew.cmu.edu](mailto:mingweig@andrew.cmu.edu)
-- **LinkedIn**: [Profile](www.linkedin.com/in/mingwei-gao/)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/mingwei-gao/)
 - **Portfolio Webpage**: [TSWD Portfolio](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
+- **Repository**: [Github Repository](https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao)
 
 ## About Me
 
@@ -25,7 +26,7 @@ From this course, I aspire to:
 Throughout this course, I'll be undertaking various projects and assignments that reflect my understanding and application of the principles taught. Below are some highlights:
 
 - **Web page URL**: [TSWD Portfolio Main Page](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
-- **Repository**: [Github Repository](https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao)
+
 
 Stay tuned for more updates on my projects!
 
