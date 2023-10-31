@@ -48,7 +48,7 @@ Here it might be helpful to include a high-level description of your final proje
 
 **bold** *italic* ~~strikethrough~~ 
 
-`[title](dataviz)` = [title](dataviz.md)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
+`[title](dataviz)` = [title](dataviz)  
+`[dataviz](https://mingweig.github.io/portfolio/dataviz.html)` = [dataviz](https://mingweig.github.io/portfolio/dataviz.html)  
 `[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
 
