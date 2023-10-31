@@ -2,9 +2,6 @@
 
 # TSWD-portfolio
 
-![Mingwei's Profile Image](your-profile-image-link-here)
-> *You can add a link to a profile image if you have one*
-
 - **Email**: [mingweig@andrew.cmu.edu](mailto:mingweig@andrew.cmu.edu)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/mingwei-gao-/)
 - **Portfolio Webpage**: [TSWD Portfolio](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
@@ -43,11 +40,6 @@ Here it might be helpful to include a high-level description of your final proje
 [Part III](final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
 
 **bold** *italic* ~~strikethrough~~ 
 
@@ -63,26 +55,6 @@ You can build tables like this:
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
 ### Setting up a separate page
 
