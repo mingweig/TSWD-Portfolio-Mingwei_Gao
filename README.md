@@ -48,6 +48,11 @@ Here it might be helpful to include a high-level description of your final proje
 | Final Pro1   | Page         | link3               |
 
 
+| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
+|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
+| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
+| Howard       | dog         | You                 | You    | You             | Eating                              |
+| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
 
 **bold** *italic* ~~strikethrough~~ 
 
