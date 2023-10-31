@@ -2,44 +2,44 @@
 
 # TSWD-portfolio
 
-- Web page URL: https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/
-- This repository: https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao
+![Mingwei's Profile Image](your-profile-image-link-here)
+> *You can add a link to a profile image if you have one*
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go for this course 
+- **Email**: [mingweig@andrew.cmu.edu](mailto:mingweig@andrew.cmu.edu)
+- **LinkedIn**: [Profile](www.linkedin.com/in/mingwei-gao/)
+- **Portfolio Webpage**: [TSWD Portfolio](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+## About Me
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Hi there! My name is Mingwei Gao. I'm a student at Carnegie Mellon University, where I'm pursuing my Master's degree. I'm passionate about the intersection of data science and visual storytelling, which is why I enrolled in this course while taking courses like Machine Learning, Deep Learning, and Question Answering.
 
-1. List item #1
-2. List item #2
-3. List item #3
+## What I Hope to Learn
 
-or...
+From this course, I aspire to:
+1. Grasp the art and science behind effective data visualization.
+2. Understand the nuances of different visualization tools and techniques.
+3. Develop the capability to tell compelling stories backed by data.
+4. Engage with peers to gain diverse perspectives on visual storytelling.
 
-- List item #1
-- List item #2
-- List item #3
+## My Work
+Throughout this course, I'll be undertaking various projects and assignments that reflect my understanding and application of the principles taught. Below are some highlights:
 
-# Portfolio
+- **Web page URL**: [TSWD Portfolio Main Page](https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)
+- **Repository**: [Github Repository](https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao)
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+Stay tuned for more updates on my projects!
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+- **Assignment**: [Visualizing overnment Debt](visualizing-government-debt.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+- **Assignment 3&4**: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
+**Final project**
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
@@ -48,7 +48,7 @@ Part III(final-project-part-three)
 
 You can change text, like this: 
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+**bold** *italic* ~~strikethrough~~ 
 
 ### Creating tables
 
