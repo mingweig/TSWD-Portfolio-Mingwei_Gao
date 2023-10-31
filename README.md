@@ -40,15 +40,18 @@ Here it might be helpful to include a high-level description of your final proje
 [Part III](final-project-part-three.md)
 
 ---
+
 | Name         | Type of Work | Link to work        |
 |--------------|--------------|---------------------|
 | A1           | Critique     | link1               | 
 | A2           | Viz          | link2               | 
 | Final Pro1   | Page         | link3               |
 
+
+
 **bold** *italic* ~~strikethrough~~ 
 
 `[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://mingweig.github.io/portfolio/dataviz.html)` = [dataviz](https://mingweig.github.io/portfolio/dataviz.html)  
+`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
 `[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
 
