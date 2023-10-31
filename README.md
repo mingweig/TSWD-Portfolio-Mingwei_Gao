@@ -43,8 +43,8 @@ Here it might be helpful to include a high-level description of your final proje
 
 | Name         | Type of Work | Link to work        |
 |--------------|--------------|---------------------|
-| A1           | Critique     | link1               | 
-| A2           | Viz          | link2               | 
+| A1           | Critique     | link1               |
+| A2           | Viz          | link2               |
 | Final Pro1   | Page         | link3               |
 
 
