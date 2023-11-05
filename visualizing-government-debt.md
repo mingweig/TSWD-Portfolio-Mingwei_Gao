@@ -31,6 +31,8 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
+
+### Discussion
 In discussing visualization methods, I prefer to think about the narrative I'm trying to craft. The time series plot is a personal favorite for historical data, as it shows progression or regression over time. It's excellent for tracking the evolution of a particular variable and allows for a clear comparison across different subjects within the same framework.
 
 Had I opted for a different visualization method, such as a bar chart, the focus would have shifted to comparing quantities at specific time points. This could benefit a certain year comparison but would lose the temporal dimension that a line graph conveys. Maps would have been ideal if I wanted to emphasize the geographical distribution of debt, but in this case, in this dataset, we are missing the geographical information like longitude and latitude.
