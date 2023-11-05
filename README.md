@@ -28,7 +28,7 @@ Throughout this course, I'll be undertaking various projects and assignments tha
 Stay tuned for more updates on my projects!
 
 - **Assignment 1**: [Visualizing government Debt](visualizing-government-debt.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+  This assignment presents the trajectory of general government debt as a percentage of GDP for various countries from 1995 to 2023, using data from the OECD.
 
 - **Assignment 3&4**: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
