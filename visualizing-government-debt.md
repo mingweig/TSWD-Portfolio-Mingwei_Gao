@@ -25,13 +25,13 @@ The highlighted line indicates the country with the highest debt-to-GDP ratio th
 
 
 ### Discussion
-In discussing visualization methods, I prefer to think about the narrative I'm trying to craft. The time series plot is a personal favorite for historical data, as it shows progression or regression over time. It's excellent for tracking the evolution of a particular variable and allows for a clear comparison across different subjects within the same framework.
+In this visualization, I've highlighted the country with the highest debt-to-GDP ratio in a bold orange line, making it stand out against the rest of the data, which is presented in a more subdued gray. I chose the color scheme carefully. While the orange captures attention, the gray allows for the background data to remain accessible without overwhelming the main message. \n
 
-Had I opted for a different visualization method, such as a bar chart, the focus would have shifted to comparing quantities at specific time points. This could benefit a certain year comparison but would lose the temporal dimension that a line graph conveys. Maps would have been ideal if I wanted to emphasize the geographical distribution of debt, but in this case, in this dataset, we are missing the geographical information like longitude and latitude.
+In discussing visualization methods, I prefer to think about the narrative I'm trying to craft. The time series plot is a personal favorite for historical data, as it shows progression or regression over time. It's excellent for tracking the evolution of a particular variable and allows for a clear comparison across different subjects within the same framework.\n
 
-The selection of this plot is because I wanted to tell a story of change, and of the dynamics of economic health as represented by debt-to-GDP ratios. 
+Had I opted for a different visualization method, such as a bar chart, the focus would have shifted to comparing quantities at specific time points. This could benefit a certain year comparison but would lose the temporal dimension that a line graph conveys. Maps would have been ideal if I wanted to emphasize the geographical distribution of debt, but in this case, in this dataset, we are missing geographical information like longitude and latitude.\n
 
-
+The selection of this plot is because I wanted to tell a story of change, and of the dynamics of economic health as represented by debt-to-GDP ratios. It not only serves to inform but also to engage, drawing the viewer into a historical journey of fiscal ebbs and flows.
 
 
 
