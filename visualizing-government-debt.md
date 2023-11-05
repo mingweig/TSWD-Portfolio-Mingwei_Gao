@@ -1,4 +1,4 @@
-| [home page](https://mingweig.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]((https://mingweig.github.io/TSWD-Portfolio-Mingwei_Gao/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # General Government Debt
 ## Part 1: Working with web-based visualization tools and data
