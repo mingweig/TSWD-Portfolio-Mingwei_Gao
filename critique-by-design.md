@@ -2,8 +2,8 @@
 
 # Average holiday Spending by Americans
 
-## Data Source
+## Data Source: Exploding Topics
 
-https://explodingtopics.com/blog/christmas-spending-stats
+Links:[URL](https://explodingtopics.com/blog/christmas-spending-stats)
 
 ## Critique the data visualization
