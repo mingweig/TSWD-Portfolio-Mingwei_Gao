@@ -36,3 +36,28 @@ I would change this graphic mainly in these two parts:
 Color. I think utilizing a color scheme that differentiates between types of spending (family, friends, coworkers, others) would make the data more accessible and allow for quicker insights at a glance. 
 
 In addition, Type of Visualization. Transitioning to a stacked bar chart or a multi-series line chart could provide a clearer picture of spending trends over time and by category. Moreover, an interactive component such as tooltips or a drill-down feature could enhance user engagement, allowing viewers to explore the data more deeply.
+
+## Sketch out a Solution
+
+I opted for this new design to streamline the visual narrative of Christmas gift spending over two decades. The original bar chart, while clear, didn't quite capture the dynamic nature of the spending trends. By transitioning to a line chart, I can illustrate the ebbs and flows of expenditures more fluidly, which paints a more nuanced picture of year-over-year changes.
+
+Moreover, I've layered the sum of all gifts as a bold, prominent line, which stands out against the individual spending categories. This approach immediately draws the viewer's attention to the overall trend first, before diving into the specifics. 
+
+The stacked bar chart underneath serves a complementary role. It provides a clear, segmented view of each category's contribution to the total, enhancing the understanding of how each segment has driven the total expenditure. The line chart introduces the trend, and the stacked bar chart breaks down the components. This layered approach caters to a more comprehensive analysis without overwhelming the audience.
+
+<div class='tableauPlaceholder' id='viz1700069477245' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;A3&#47;A3A4&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='A3A4&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;A3&#47;A3A4&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1700069477245');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+else { vizElement.style.width='100%';vizElement.style.height='777px';}                     
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+## Test the solution
+
+-- Interviewee 1: Student, early 20's
+
