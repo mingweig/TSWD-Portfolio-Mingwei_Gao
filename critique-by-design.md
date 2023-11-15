@@ -5,5 +5,7 @@
 ## Data Source: Exploding Topics
 
 Links:[URL](https://explodingtopics.com/blog/christmas-spending-stats)
+Original Graphic:
+![image](https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/4f44d43c-1483-4a95-8f4b-aab732fc95e0)
 
 ## Critique the data visualization
