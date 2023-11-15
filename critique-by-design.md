@@ -59,5 +59,5 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ## Test the solution
 
--- Interviewee 1: Student, early 20's
+### Interviewee 1: Student, early 20's
 
