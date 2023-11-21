@@ -47,7 +47,7 @@ Data sources and additional resources.
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+Some of the initial sketches would be like:
 
 Percentage of people in the U.S. without health insurance by ethnicity 2010-2022
 
@@ -64,6 +64,11 @@ U.S. health expenditure as a percent of GDP 1960-2021
 Percentage of adults who reported a time in the past 12 months when they needed to see a doctor but could not because of cost
 
 <img width="415" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/57494c39-3130-4a31-939c-65c5a66592c8">
+
+Distribution of healthcare Workforce in the US 2019, by Race
+
+<img width="420" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/c10b68ea-fe5a-4820-841e-85509bbca115">
+
 
 
 # The data
