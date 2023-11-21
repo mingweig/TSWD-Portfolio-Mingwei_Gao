@@ -73,6 +73,10 @@ U.S. health expenditure as a percent of GDP 1960-2021
 
 <img width="481" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/117385ee-26d4-4123-b30e-c2b17be119ba">
 
+Life expectancy at birth, by race, U.S. 2019-2021
+
+<img width="362" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/a1f8b785-f558-4c74-87fc-2d4501097945">
+
 
 # The data
 
