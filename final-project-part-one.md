@@ -5,7 +5,7 @@
 **Title**: "Unveiling Health Disparities: A Data-Driven Insight into the U.S. Healthcare System"
 
 **Summary**:
-The United States, despite its advanced medical technologies and substantial healthcare spending, exhibits a significant disparity in health outcomes and access to medical care[1]. In 2022, the U.S. allocated nearly 16% of its GDP to healthcare, surpassing other OECD countries like Germany, France, and Japan, which had considerably lower percentages[2]. However, this substantial expenditure does not correlate with better health outcomes. In contrast, the life expectancy in the U.S. lags behind other developed nations[3]. 
+The United States, despite its advanced medical technologies and substantial healthcare spending, exhibits a significant disparity in health outcomes and access to medical care (National Health Expenditure Data). In 2022, the U.S. allocated nearly 16% of its GDP to healthcare, surpassing other OECD countries like Germany, France, and Japan, which had considerably lower percentages (OCED, Health expenditure as a percentage of gross domestic product (GDP)). However, this substantial expenditure does not correlate with better health outcomes (OCED, Life Expectancy). In contrast, the life expectancy in the U.S. lags behind other developed nations. 
 
 This project aims to delve into the nuances of this disparity by examining various data sets, including health expenditure as a percentage of GDP, life expectancy, trends in health insurance coverage, and the impact of these factors on different ethnic groups. Through this analysis, the project seeks to uncover the underlying causes of the healthcare disparity in the U.S., focusing on how economic, racial, and social factors intertwine to shape the health landscape of the nation. The goal is to inform, engage, and provoke thoughtful discussions on the need for equitable healthcare reforms.
 
@@ -104,3 +104,11 @@ The life expectancy data from the CDC will be important in highlighting the diff
 # Method and medium
 
 For my final project, I hope to use Tableau to create dynamic, interactive visualizations. Tableau's strength in bringing data to life will be key in illustrating the healthcare disparities in the U.S. These visualizations will then be integrated into Story Maps, providing a narrative flow alongside the data. This combination will allow me to construct a story that's informative and immersive, offering a better experience than traditional PowerPoint slides. My aim is to deliver a unique, interactive digital story that effectively communicates the data.
+
+# Reference
+
+Centers for Medicare &amp; Medicaid Services. (n.d.). National Health Expenditure Data. CMS.gov. https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical 
+
+Oecd. (n.d.). Health expenditure as a percentage of gross domestic product (GDP). OECD Statistics. https://stats.oecd.org/ 
+
+Oecd. (n.d.). Life expectancy. OECD Statistics. https://stats.oecd.org/ 
