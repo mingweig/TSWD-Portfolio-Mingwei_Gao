@@ -12,8 +12,11 @@ This project aims to delve into the nuances of this disparity by examining vario
 **Project Structure**
 
 **Introduction: U.S. Health Expenditure**
+
 Overview of U.S. healthcare spending compared to other OECD countries.
+
 Historical perspective on U.S. health expenditure (1960-2021).
+
 Establishing the paradox of high expenditure vs. lower life expectancy.
 
 
