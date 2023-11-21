@@ -73,7 +73,7 @@ The life expectancy data from the CDC will be important in highlighting the diff
 |Health expenditure as a % of GDP| [Link](https://www.statista.com/statistics/268826/health-expenditure-as-gdp-percentage-in-oecd-countries/)|Health expenditure as a % of GDP in 2022|
 |Life Expectancy in Different Country|[Link](https://stats.oecd.org/#)| Life Expectancy in G7 Country|
 |Immigrants who experienced unfair treatment in health care in the U.S. 2023|[Link](https://www.statista.com/statistics/1416495/immigrants-with-experience-of-unfair-treatment-in-health-care-by-race-in-the-us/)|Share of immigrant adults who experienced been treated differently or unfairly by a doctor or health provider, by races|
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+# Method and medium
+
+For my final project, I hope to use Tableau to create dynamic, interactive visualizations. Tableau's strength in bringing data to life will be key in illustrating the healthcare disparities in the U.S. These visualizations will then be integrated into Story Maps, providing a narrative flow alongside the data. This combination will allow me to construct a story that's informative and immersive, offering a better experience than traditional PowerPoint slides. My aim is to deliver a unique, interactive digital story that effectively communicates the data.
