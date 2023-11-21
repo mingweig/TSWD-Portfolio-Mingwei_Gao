@@ -103,7 +103,7 @@ The life expectancy data from the CDC will be important in highlighting the diff
 
 # Method and medium
 
-For my final project, I hope to use Tableau to create dynamic, interactive visualizations. Tableau's strength in bringing data to life will be key in illustrating the healthcare disparities in the U.S. These visualizations will then be integrated into Story Maps, providing a narrative flow alongside the data. This combination will allow me to construct a story that's informative and immersive, offering a better experience than traditional PowerPoint slides. My aim is to deliver a unique, interactive digital story that effectively communicates the data.
+For my final project, I hope to use Tableau to create dynamic, interactive visualizations. Tableau's strength in bringing data to life will be key in illustrating the healthcare disparities in the U.S. These visualizations will then be integrated into shorthand, providing a narrative flow alongside the data. This combination will allow me to construct a story that's informative and immersive, offering a better experience than traditional PowerPoint slides. My aim is to deliver a unique, interactive digital story that effectively communicates the data.
 
 # Reference
 
