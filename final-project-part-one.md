@@ -60,10 +60,14 @@ Text here...
 
 | Name                                                                                                      | URL | Description |
 |-----------------------------------------------------------------------------------------------------------|-----|-------------|
-|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022      | [URL](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |people without health insurance, by ethnicity|
-|National Population| [URL](https://www.census.gov/data/tables/time-series/demo/popest/2010s-national-detail.html) |Resident population of the United States by race from 2000 to 2022|
-|      |     |             |
-
+|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022      | [Link](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |people without health insurance, by ethnicity|
+|National Population| [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-national-detail.html) |Resident population of the United States by race from 2000 to 2022|
+|Avoided Care Due to Cost in the United States| [Link](https://www.americashealthrankings.org/explore/measures/costburden?population=costburden_AmIndian)|Avoided Care Due to Cost Trends by Race/Ethnicity|
+|Historical| [Link](https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical) |National health expenditure data|
+|Provisional Life Expectancy Estimates for 2021| [Link](https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf)|Life expectancy at birth in the United States from 2019 to 2021, by race|
+|Estimation and Comparison of Current and Future Racial/Ethnic Representation in the US Health Care Workforce| [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777977)|Distribution of health professionals in the United States in 2019, by race|
+|Health expenditure as a % of GDP| [Link](https://www.statista.com/statistics/268826/health-expenditure-as-gdp-percentage-in-oecd-countries/)|Health expenditure as a % of GDP in 2022|
+|Life Expectancy in Different Country|[Link](https://stats.oecd.org/#)| Life Expectancy in G7 Country|
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
