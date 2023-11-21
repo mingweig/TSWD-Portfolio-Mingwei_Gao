@@ -52,7 +52,6 @@ Data sources and additional resources.
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 The data for this project is sourced from diverse reputable and authoritative institutions, ensuring reliability and accuracy. The core data on health expenditure as a percentage of gross domestic product (GDP) for selected countries in 2022 and Life expectancy in G7 countries comes from the Organisation for Economic Co-operation and Development (OECD). This data is pivotal in establishing a comparative framework for analyzing healthcare spending across different nations. 
 
@@ -62,7 +61,6 @@ The use of these data is planned to construct a coherent narrative around health
 
 The life expectancy data from the CDC will be important in highlighting the differences in health outcomes based on race and ethnicity, underscoring the systemic nature of these disparities. The KFF data on immigrant healthcare experiences will add to explore how treatment within the healthcare system varies among different groups. Each dataset will be utilized to support specific aspects of the narrative, with visualizations to bring informative aspects of the data, aiming to foster a deeper understanding of the complicated nature of healthcare disparities in the United States.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name                                                                                                      | URL | Description |
 |-----------------------------------------------------------------------------------------------------------|-----|-------------|
