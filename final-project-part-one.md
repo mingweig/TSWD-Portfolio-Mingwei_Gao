@@ -60,8 +60,8 @@ Text here...
 
 | Name                                                                                                      | URL | Description |
 |-----------------------------------------------------------------------------------------------------------|-----|-------------|
-|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022| [URL](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |             |
-|      |     |             |
+|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022      | [URL](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |people without health insurance, by ethnicity|
+|National Population| [URL](https://www.census.gov/data/tables/time-series/demo/popest/2010s-national-detail.html) |Resident population of the United States by race from 2000 to 2022|
 |      |     |             |
 
 # Method and medium
