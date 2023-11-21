@@ -54,7 +54,13 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The data for this project is sourced from diverse reputable and authoritative institutions, ensuring reliability and accuracy. The core data on health expenditure as a percentage of gross domestic product (GDP) for selected countries in 2022 and Life expectancy in G7 countries comes from the Organisation for Economic Co-operation and Development (OECD). This data is pivotal in establishing a comparative framework for analyzing healthcare spending across different nations. 
+
+For insights into U.S. national health expenditure trends from 1960 to 2021, we rely on data provided by the Centers for Medicare & Medicaid Services (CMS), which offers a comprehensive view of historical spending patterns. The statistics regarding the percentage of people without health insurance in the United States, segregated by ethnicity from 2010 to 2022, and life expectancy in the U.S. by race, are sourced from the Centers for Disease Control and Prevention (CDC), providing a lens into insurance coverage disparities. Additionally, data on the distribution of health professionals in the U.S. by race and ethnicity for 2019 is extracted from an investigation from (Journal of the American Medical Association)JAMA, complementing our analysis with workforce diversity aspects. Finally, data on and the experiences of immigrant adults with healthcare providers, are derived from Kaiser Family Foundation(KFF). 
+
+The use of these data is planned to construct a coherent narrative around healthcare disparities in the U.S. The project begins by introducing the U.S.'s healthcare expenditure against that of other developed countries, using the OECD data to highlight the anomaly of high spending versus relatively lower health outcomes. The time-based data on U.S. health expenditure from CMS will be used to trace the healthcare investment over time, seeking correlations with changes in life expectancy. The Census Bureau's data on uninsured populations will enable an analysis of healthcare access disparities across different ethnic groups, while the data on healthcare professionals' demographics will highlight workforce diversity to patient demographics. 
+
+The life expectancy data from the CDC will be important in highlighting the differences in health outcomes based on race and ethnicity, underscoring the systemic nature of these disparities. The KFF data on immigrant healthcare experiences will add to explore how treatment within the healthcare system varies among different groups. Each dataset will be utilized to support specific aspects of the narrative, with visualizations to bring informative aspects of the data, aiming to foster a deeper understanding of the complicated nature of healthcare disparities in the United States.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -68,6 +74,7 @@ Text here...
 |Estimation and Comparison of Current and Future Racial/Ethnic Representation in the US Health Care Workforce| [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777977)|Distribution of health professionals in the United States in 2019, by race|
 |Health expenditure as a % of GDP| [Link](https://www.statista.com/statistics/268826/health-expenditure-as-gdp-percentage-in-oecd-countries/)|Health expenditure as a % of GDP in 2022|
 |Life Expectancy in Different Country|[Link](https://stats.oecd.org/#)| Life Expectancy in G7 Country|
+|Immigrants who experienced unfair treatment in health care in the U.S. 2023|[Link](https://www.statista.com/statistics/1416495/immigrants-with-experience-of-unfair-treatment-in-health-care-by-race-in-the-us/)|Share of immigrant adults who experienced been treated differently or unfairly by a doctor or health provider, by races|
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
