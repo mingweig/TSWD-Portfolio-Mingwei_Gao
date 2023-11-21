@@ -69,6 +69,9 @@ Distribution of healthcare Workforce in the US 2019, by Race
 
 <img width="420" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/c10b68ea-fe5a-4820-841e-85509bbca115">
 
+U.S. health expenditure as a percent of GDP 1960-2021
+
+<img width="481" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/117385ee-26d4-4123-b30e-c2b17be119ba">
 
 
 # The data
