@@ -50,15 +50,19 @@ Data sources and additional resources.
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Percentage of people in the U.S. without health insurance by ethnicity 2010-2022
+
 <img width="600" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/0eee02bd-a585-498b-9dbc-e8d11e77ea5d">
 
 Population of the U.S. by race 2000-2022
+
 <img width="548" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/3a2fe8f1-d6fe-42c0-9b25-5f83c96f52dc">
 
 U.S. health expenditure as a percent of GDP 1960-2021
+
 <img width="405" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/c6040198-ebc0-4141-a789-75baa2d0775c">
 
 Percentage of adults who reported a time in the past 12 months when they needed to see a doctor but could not because of cost
+
 <img width="415" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/57494c39-3130-4a31-939c-65c5a66592c8">
 
 
