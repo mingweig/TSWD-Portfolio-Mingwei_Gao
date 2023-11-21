@@ -1,16 +1,49 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+**Title**: "Unveiling Health Disparities: A Data-Driven Insight into the U.S. Healthcare System"
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+**Summary**:
+The United States, despite its advanced medical technologies and substantial healthcare spending, exhibits a significant disparity in health outcomes and access to medical care[1]. In 2022, the U.S. allocated nearly 16% of its GDP to healthcare, surpassing other OECD countries like Germany, France, and Japan, which had considerably lower percentages[2]. However, this substantial expenditure does not correlate with better health outcomes. In contrast, the life expectancy in the U.S. lags behind other developed nations[3]. 
 
-Text here...
+This project aims to delve into the nuances of this disparity by examining various data sets, including health expenditure as a percentage of GDP, life expectancy, trends in health insurance coverage, and the impact of these factors on different ethnic groups. Through this analysis, the project seeks to uncover the underlying causes of the healthcare disparity in the U.S., focusing on how economic, racial, and social factors intertwine to shape the health landscape of the nation. The goal is to inform, engage, and provoke thoughtful discussions on the need for equitable healthcare reforms.
+
+**Project Structure**
+
+**Introduction: U.S. Health Expenditure**
+Overview of U.S. healthcare spending compared to other OECD countries.
+Historical perspective on U.S. health expenditure (1960-2021).
+Establishing the paradox of high expenditure vs. lower life expectancy.
+
+
+**Comparative Analysis:**
+Comparative data visualization of health expenditure as a percentage of GDP (U.S. vs. other countries).
+Life expectancy comparisons to illustrate the disparity in outcomes.
+
+**U.S. Healthcare Analysis:**
+Trend analysis of U.S. national health expenditure from 1960 to 2021.
+Correlation between healthcare spending and life expectancy over time.
+
+**Healthcare Access and Quality Disparities:**
+Insurance coverage trends by ethnicity (2010-2022).
+Analysis of avoided care due to cost by race/ethnicity.
+Distribution of health professionals by race and ethnicity vs. resident population distribution.
+
+**Immigrant Healthcare Experience:**
+Data on immigrant adults' experiences with healthcare providers.
+
+**Life Expectancy Analysis:**
+Detailed breakdown of life expectancy in the U.S. by Hispanic origin and race (2019-2021).
+Comparison with general U.S. life expectancy trends.
+
+**Conclusion:**
+Synthesizing insights from data analyses.
+Discussing implications for healthcare policy and practice in the U.S.
+
+**Appendices and References:**
+Data sources and additional resources.
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -24,9 +57,9 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
+| Name                                                                                                      | URL | Description |
+|-----------------------------------------------------------------------------------------------------------|-----|-------------|
+|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022| [URL](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |             |
 |      |     |             |
 |      |     |             |
 
