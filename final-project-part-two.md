@@ -31,6 +31,7 @@ pie charts comparing the distribution of physicians by ethnicity with the genera
 Immigrant Experiences
 
 A bar graph showing the share of immigrants who have experienced unfair treatment.Highlight the structural Racism within the health system.
+
 <img width="817" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/af015de0-a165-4536-8deb-d544daa0fd0c">
 
 **Resolution:** Immigrant Experiences and a Call to Action
