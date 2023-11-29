@@ -24,7 +24,8 @@ A bar chart showing the percentage of uninsured individuals by ethnicity. Also p
 
 Workforce Representation
 
-pie charts comparing the distribution of physicians by ethnicity with the general population.Annotations highlighting the discrepancies between the two.
+pie charts comparing the distribution of physicians by ethnicity with the general population. Annotations highlighting the discrepancies between the two.
+
 <img width="819" alt="image" src="https://github.com/mingweig/TSWD-Portfolio-Mingwei_Gao/assets/122922442/db9bf9c1-a4e6-404b-bd0e-4b86e9a99ac8">
 
 Immigrant Experiences
