@@ -43,13 +43,11 @@ Here it might be helpful to include a high-level description of your final proje
 | Name         | Type of Work | Link to work          |
 |--------------|--------------|-----------------------|
 | First Viz    | Viz          | [link1](first-viz.md) |
-| A2           | Viz          | link2                 |
-| Final Pro1   | Page         | link3                 |
+| A1           | Viz          | [link2](visualizing-government-debt.md)|
+| A3&4         | Viz          | [link3](critique-by-design.md)|
+| Final Part1  | Proj         | [link4](final-project-part-one.md)|
+| Final Part2  | Proj         | [link5](final-project-part-two.md)|
+| Final Part3  | Proj         | [link6](final-project-part-three.md)|
 
 
-**bold** *italic* ~~strikethrough~~ 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
+*italic* ~~strikethrough~~ 
