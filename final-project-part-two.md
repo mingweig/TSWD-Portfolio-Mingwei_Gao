@@ -41,20 +41,28 @@ A closing statement call to action.
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audience of this story includes healthcare policymakers, medical professionals, public policy students, public health students, and even all the interested general public. I aim to reach those who are already in the healthcare industry or students who have the potential to influence or advocate for healthcare reform in the future at Heinz College.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+> List the goals from your research and the questions you intend to ask. 
 
-Text here!
+There are 4 main goals of the interview,
+
+1. Check whether audiences get the idea of the story.
+
+2. Understand the audience's awareness of healthcare disparities.
+
+3. Evaluate the emotional impact of the visualizations.
+
+4. Collect actionable feedback to improve the narrative.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Topic Identification| What do you think this story is talking about? |
+|Awareness| How familiar are you with the disparities in the U.S. healthcare system? |
+|Eemotional Impact| Which part of the Story (Visualization / Text) had the most emotional impact on you?|
+|Feedback| What changes would make the data more compelling or clearer?|
 
 
 Text here!
