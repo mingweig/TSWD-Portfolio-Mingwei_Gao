@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mingweig.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
 
@@ -77,20 +77,18 @@ There are 4 main goals of the interview,
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+
+There are 3 Points that need to be further addressed:
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|**Need for a more cohesive narrative** Interviewees noted a disconnect in the story's flow, especially between different data sections. | Address the disconnect by ensuring a smoother transition between different parts of the story. For example: adding explanatory text or restructuring sections for better coherence. |
+|**Enhancing Data Presentation** Suggestions were made to make the data more digestible and clear.|Implement the suggestion to sort bars on the 'The Disparity' slide for clarity. Review other visualizations to ensure they are as intuitive and informative as possible.|
+|**Inclusion of Actionable Insights** Interviewees desired more actionable advice or conclusions in the story.|Introduce a concluding section that provides actionable insights or recommendations based on the data presented. Give the story a more impactful ending and offer value to the audience.|
 
-> ...include any final thoughts you have here. 
+## Final Thoughts
 
-Text here!
+The feedback emphasizes the importance of a cohesive narrative and clear, impactful data presentation. The changes in Part III of the project will focus on enhancing story flow, refining data visualizations, and providing meaningful conclusions to make the story more engaging and informative.
 
 
