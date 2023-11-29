@@ -72,10 +72,10 @@ Text here!
 
 | Questions               | Interview 1 (Public Policy Student) | Interview 2 (Medical Doctor Student) | Interview 3 (Healthcare Analytic Student) |
 |-------------------------|--------------------------------|-------------|-------------|
-|What do you think this story is talking about? | Insightful feedback            |             |             |
-|How familiar are you with the disparities in the U.S. healthcare system? |                                |             |             |
-|Which part of the Story (Visualization / Text) had the most emotional impact on you? |                                |             |             |
-|What changes would make the data more compelling or clearer? ||||
+|What do you think this story is talking about? |It feels like the main topic is the unequal distribution of healthcare resources among different races, with people of color facing unfair treatment in healthcare. | | |
+|How familiar are you with the disparities in the U.S. healthcare system? |As an international student, I'm not very familiar with this, but it's indeed difficult to find Chinese doctors during medical visits.|             |             |
+|Which part of the Story (Visualization / Text) had the most emotional impact on you? |I think the most impactful was the chart comparing the proportion of doctors to the racial population. It reminds me of the difficulties in finding Chinese doctors and the language barriers during consultations, which can be a significant obstacle, especially for older migrants who can't describe their symptoms due to language issues.|             |             |
+|What changes would make the data more compelling or clearer? |There seems to be a disconnect between the first and second halves. Are you trying to say that despite the high spending in the U.S., life expectancy has declined due to uneven distribution? Need More action advice.|||
 
 
 # Identified changes for Part III
