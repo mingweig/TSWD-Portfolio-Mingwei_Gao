@@ -45,7 +45,6 @@ A closing statement call to action.
 The target audience of this story includes healthcare policymakers, medical professionals, public policy students, public health students, and even all the interested general public. I aim to reach those who are already in the healthcare industry or students who have the potential to influence or advocate for healthcare reform in the future at Heinz College.
 
 ## Interview script
-> List the goals from your research and the questions you intend to ask. 
 
 There are 4 main goals of the interview,
 
@@ -65,18 +64,18 @@ There are 4 main goals of the interview,
 |Feedback| What changes would make the data more compelling or clearer?|
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Public Policy Student) | Interview 2 (Medical Doctor Student) | Interview 3 (Healthcare Analytic Student) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What do you think this story is talking about? | Insightful feedback            |             |             |
+|How familiar are you with the disparities in the U.S. healthcare system? |                                |             |             |
+|Which part of the Story (Visualization / Text) had the most emotional impact on you? |                                |             |             |
+|What changes would make the data more compelling or clearer? ||||
 
 
 # Identified changes for Part III
