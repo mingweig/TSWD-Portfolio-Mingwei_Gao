@@ -89,6 +89,7 @@ There are 3 Points that need to be further addressed:
 
 ## Final Thoughts
 
+[Shorthand Link](https://preview.shorthand.com/UjrUhjS6NWioqvdO)
 The feedback emphasizes the importance of a cohesive narrative and clear, impactful data presentation. The changes in Part III of the project will focus on enhancing story flow, refining data visualizations, and providing meaningful conclusions to make the story more engaging and informative.
 
 
