@@ -6,9 +6,18 @@
 Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+**Enhanced Visualizations**: Adopted a consistent color palette and switched to rectangular bar charts for all data visualizations, ensuring design consistency as comments from part II.
+
+**Narrative Integration**: Inserted additional text sections/visualizations to create a completed story structure, addressing previously identified gaps between sections for a coherent storyline.
+
+**Targeted Calls to Action**: Add the calls to action to be more specific for policymakers, healthcare professionals, and the general public, ensuring each has clear, actionable steps.
+
+**Focused Audience Narrative**: Narrowed the story's scope to more effectively address the nuances of the healthcare experience by different races, based on user feedback for a more targeted approach.
+
+**Shorthand Transition**: Initiated the move to the Shorthand platform, used its features for a more polished and engaging presentation, in line with the latest feedback.
+
+**Data Visualization Standardization**: Working towards creating and using visualizations that are consistent with the visual language of the entire story.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
