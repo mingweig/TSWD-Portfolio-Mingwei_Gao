@@ -50,4 +50,4 @@ Here it might be helpful to include a high-level description of your final proje
 | Final Part3  | Proj         | [link6](final-project-part-three.md)|
 
 
-*italic* ~~strikethrough~~ 
+
