@@ -16,7 +16,7 @@ Project Deliverable:
 
 **Focused Audience Narrative**: Narrowed the story's scope to more effectively address the nuances of the healthcare experience by different races, based on user feedback for a more targeted approach.
 
-**Shorthand Transition**: Initiated the move to the Shorthand platform, used its features for a more polished and engaging presentation, in line with the latest feedback.
+**Shorthand Transition**: Initiated the move to the Shorthand platform, and used its features for a more polished and engaging presentation, in line with the latest feedback.
 
 **Data Visualization Standardization**: Working towards creating and using visualizations that are consistent with the visual language of the entire story.
 
@@ -42,6 +42,9 @@ In refining the design for the final project, my designs were centered around en
 |Immigrants who experienced unfair treatment in health care in the U.S. 2023|[Link](https://www.statista.com/statistics/1416495/immigrants-with-experience-of-unfair-treatment-in-health-care-by-race-in-the-us/)|Share of immigrant adults who experienced been treated differently or unfairly by a doctor or health provider, by races|
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+In concluding this project, I reflect on the journey of developing a data story. However, there were challenges along the way. Time constraints limited deeper exploration in certain areas, and I wished for more opportunities to refine the interactive elements. The process was enjoyable, particularly in understanding the audience's perspective and the power of data visualization like Canva and Tableau in storytelling. The most exciting part was seeing the story resonate with the target audience, and highlight the importance of effective communication in data-driven narratives.
+
+
+
+
