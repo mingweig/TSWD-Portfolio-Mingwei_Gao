@@ -1,9 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+Project Deliverable:
+
+[Shorthand Link](https://preview.shorthand.com/UjrUhjS6NWioqvdO)
 
 # Changes made since Part II
 
@@ -20,19 +21,25 @@ Text here!
 **Data Visualization Standardization**: Working towards creating and using visualizations that are consistent with the visual language of the entire story.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The audience for my final data story is primarily **policymakers and healthcare professionals**, with a secondary audience of the **informed general public**, particularly those interested in public health and social equity. Insights from interviews and feedback, especially with healthcare students and professionals, highlighted the need for a narrative that not only presents data but also educates and prompts action. 
+
+To address these audiences, the project was refined to include more actionable insights and clearer calls to action. The visualizations and text were tailored to engage a policy-oriented mindset, with emphasis on the implications of the data on policy and practice.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+In refining the design for the final project, my designs were centered around enhancing user engagement and clarity. I chose a color palette that resonates with both policymakers and healthcare professionals, at the same time, ensuring it's accessible to the general public as well. Interactive elements were added to encourage active participation. Throughout the process, I learned the importance of design consistency in storytelling and the impact of visual simplicity in conveying complex data. These adjustments were influenced by feedback from interviews and aimed to create a narrative that is both informative and actionable
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+| Name                                                                                                      | URL | Description |
+|-----------------------------------------------------------------------------------------------------------|-----|-------------|
+|Health Insurance Coverage: Early Release of Estimates From the National Health Interview Survey, 2022      | [Link](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf) |people without health insurance, by ethnicity|
+|National Population| [Link](https://www.census.gov/data/tables/time-series/demo/popest/2010s-national-detail.html) |Resident population of the United States by race from 2000 to 2022|
+|Estimation and Comparison of Current and Future Racial/Ethnic Representation in the US Health Care Workforce| [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777977)|Distribution of health professionals in the United States in 2019, by race|
+|Health expenditure as a % of GDP| [Link](https://www.statista.com/statistics/268826/health-expenditure-as-gdp-percentage-in-oecd-countries/)|Health expenditure as a % of GDP in 2022|
+|Life Expectancy in Different Country|[Link](https://stats.oecd.org/#)| Life Expectancy in G7 Country|
+|Immigrants who experienced unfair treatment in health care in the U.S. 2023|[Link](https://www.statista.com/statistics/1416495/immigrants-with-experience-of-unfair-treatment-in-health-care-by-race-in-the-us/)|Share of immigrant adults who experienced been treated differently or unfairly by a doctor or health provider, by races|
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
